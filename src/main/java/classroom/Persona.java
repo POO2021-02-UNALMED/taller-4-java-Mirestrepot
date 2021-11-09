@@ -34,7 +34,7 @@ public class Persona {
     }
     public Persona() {
     	this.cedula = 0;
-
+    	this.nombre = "Sin Nombre";
 	}
     
     long getCedula() {
